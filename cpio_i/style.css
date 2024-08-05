@@ -73,7 +73,8 @@ body{
 
   .cpio{
     text-align: center;
-    animation: color-change 10s infinite;
+    animation: color-change 15s infinite;
+    font-weight: bolder;
   }
 
   @keyframes color-change{
