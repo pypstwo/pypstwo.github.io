@@ -24,6 +24,15 @@ body{
     transform: translate(-50%, -50%);
 }
 
+.center_yt {
+  margin: 0;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 .buttonlayout {
     font-family: monospace;
     background-color: rgb(106, 235, 31);
