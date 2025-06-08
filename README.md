@@ -1,6 +1,6 @@
 # 👑 -- Hello World! -- 
 
-- [REGULAR PRIORITY](https://pi259.github.io/regularpriority)
+- [O BLOG REGULAR PRIORITY](https://pi259.github.io/regularpriority)
 
 - P E R D I  O  J O G O
 
