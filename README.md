@@ -1,6 +1,6 @@
 # 👑 -- Hello World! -- 
 
-- [O BLOG REGULAR PRIORITY](https://pypstwo.github.io/regularpriority)
+- [NULLAIDEA*](https://pypstwo.github.io/nullaidea)
 
 - P E R D I  O  J O G O
 
